@@ -13,7 +13,7 @@ import android.location.LocationListener;
 import android.location.LocationManager;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-
+///////////////22-04-2011
 public class HelloMap extends MapActivity {
 	    private LocationManager lm;
 	    private LocationListener locationListener;
